@@ -1,1 +1,0 @@
-Note: If the bug is for security issue, please do not post it here. Send us a private message at <dev.jackalsport.com>
